@@ -5,7 +5,7 @@
 
 `智能图色点击器` 是一款创新的桌面自动化工具。它摒弃了传统的坐标录制或元素监听方式，采用**窗口图色识别**技术，通过“录制-识别-点击”的直观流程，让任何屏幕上的重复操作都能轻松自动化。
 
-项目地址：https://github.com/E5C8F/SmartPixClick
+下载地址：[智能图色点击器 (Smart PixClick)](https://github.com/E5C8F/SmartPixClick/blob/main/%E6%99%BA%E8%83%BD%E5%9B%BE%E8%89%B2%E7%82%B9%E5%87%BB%E5%99%A8.exe)
 
 ---
 
