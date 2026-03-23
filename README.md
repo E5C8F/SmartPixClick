@@ -1,6 +1,8 @@
 # 智能图色点击器 (Smart PixClick)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/E5C8F/SmartPixClick/pulls)
+> [English](./README_English.md) | [中文](./README.md)
+
 > 所见即可录，所录即可点。一款基于视觉识别的桌面自动化助手。
 
 `智能图色点击器` 是一款创新的桌面自动化工具。它摒弃了传统的坐标录制或元素监听方式，采用**窗口图色识别**技术，通过“录制-识别-点击”的直观流程，让任何屏幕上的重复操作都能轻松自动化。
