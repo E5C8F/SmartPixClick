@@ -9,7 +9,7 @@ A desktop automation assistant based on visual recognition – record what you s
 `Smart PixClick` is an innovative desktop automation tool. Instead of relying on traditional coordinate recording or element listening, it uses **window image & color recognition**. Through an intuitive process of "Record – Recognize – Click", it makes any repetitive on-screen task effortlessly automatable.
 
 **Download:** [Smart PixClick.exe](https://github.com/E5C8F/SmartPixClick/blob/main/%E6%99%BA%E8%83%BD%E5%9B%BE%E8%89%B2%E7%82%B9%E5%87%BB%E5%99%A8.exe)
-
+> **⚠️ Prototype Version Notice**: This release is a functional prototype focused on core technology validation. The user interface (UI) and some interactions are **not yet fully polished**. Please understand if you encounter any rough edges. Your feedback via Issues is greatly appreciated to help improve the project.
 ---
 
 ## ✨ Key Features
